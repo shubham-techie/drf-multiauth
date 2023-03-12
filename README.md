@@ -9,6 +9,11 @@ It can be used as an **API** to authenticate user and authorize requests.
 3. **Email and phoneNumber verification** on adding, removing, reset-password.
 4. **2FA** available via any *Authenticator app*.
 
+### Installation guide :
+```
+pip install git+https://github.com/shubham-techie/drf-multiauth.git
+```
+
 ### Available endpoints : 
 ```
 1. signup/with-password/
